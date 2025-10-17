@@ -74,3 +74,4 @@ cli.js	Recebe os parâmetros -t e -d e executa o programa
 index.js	Contém a lógica principal de leitura e contagem de palavras
 helpers.js	Verifica e organiza palavras duplicadas
 funcoesErros.js	Define mensagens e funções para tratamento de erros personalizados
+
